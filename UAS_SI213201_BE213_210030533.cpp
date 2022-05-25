@@ -1,8 +1,3 @@
-// Nim  : 210030533
-// Nama : Dewa Gede Agung Krishnananda Sudewa
-// Kelas: BE213
-// Mata Kuliah : Prak.Algoritma dan Struktur Data
-
 #include <iostream>
 #include <array>
 #include <conio.h>
