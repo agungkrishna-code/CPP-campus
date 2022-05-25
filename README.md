@@ -1,2 +1,2 @@
-# sekumpulan repo ujian algoritma 
+# sekumpulan repo ujian algoritma c++
 open source 🙂🙂👍
