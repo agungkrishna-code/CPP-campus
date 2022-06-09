@@ -45,9 +45,9 @@ return 0;
 int main()
 {
     cout << "=============================================" << endl;
-    cout << "Nama    : Dewa Gede Agung Krishnananda Sudewa" << endl;
-    cout << "NIM     : 210030533"                           << endl;
-	cout << "=============looping||calculator=============" << endl;
+    cout << "Nama    : lorem ipsum" 			    << endl;
+    cout << "NIM     : lorem ipsum"                         << endl;
+    cout << "=============looping||calculator=============" << endl;
     cout << "=============================================" << endl;
 while (true)
 {
