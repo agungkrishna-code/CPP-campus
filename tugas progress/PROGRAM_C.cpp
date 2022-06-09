@@ -24,8 +24,8 @@ int main(){
 	cout << Buku2.penulis << endl << endl;
 
     cout << "=============================================" << endl;
-    cout << "Nama    : Dewa Gede Agung Krishnananda Sudewa" << endl;
-    cout << "NIM     : 210030533"                           << endl;
+    cout << "Nama    : lorem ipsum" 			    << endl;
+    cout << "NIM     : lorem ipsum"                         << endl;
     cout << "=============================================" << endl;
 
     return 0;
